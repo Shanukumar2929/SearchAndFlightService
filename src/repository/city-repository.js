@@ -20,7 +20,7 @@ await City.destroy(
         }
     }
 );
-    }catch(error){
+    }catch (error){
 throw {error};
     }
    } 
